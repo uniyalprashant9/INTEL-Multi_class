@@ -8,6 +8,10 @@
 - Mountain :mount_fuji:
 - Sea :ship:
 
+## Training workflow is as follows:
+
+![Test Image 8](https://raw.githubusercontent.com/PSYCHOBITx/INTEL_Multi_class/master/images/a.png)
+
 ## Orange Modules Used
 - Image Loader
 - Image Viewer
